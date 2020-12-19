@@ -1,0 +1,254 @@
+<resources>
+    <string name="app_name">HEAL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_driver_map">Map</string>
+    <string name="title_activity_customer_map">Map</string>
+    <string name="menu_history">History</string>
+    <string name="menu_settings">Settings</string>
+    <string name="nav_header">Ambulance Finder</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="title_activity_driver_home">DriverHomeActivity</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+    <string name="title_activity_customer_home">CustomerHomeActivity</string>
+    <string name="action_logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home_2">Home</string>
+    <string name="menu_history_blah" />
+    <string name="menu_settings_blah" />
+    <string name="menu_history_2">History</string>
+    <string name="menu_settings_2">Settings</string>
+    <!--Medical Problems-->
+    <string-array name="medicalProblems">
+        <item>Heart Attack/Chest Pain</item>
+        <item>Fracture</item>
+        <item>Burns and Scalds</item>
+        <item>Major Cuts</item>
+        <item>Heat Stroke</item>
+        <item>Electrocution</item>
+        <item>Poisonous Bites/Stings</item>
+        <item>Choking</item>
+        <item>Seizures</item>
+        <item>Eye-Trauma</item>
+    </string-array>
+
+    <!--Guide Steps-->
+
+    <!--Heart Attack-->
+    <string name="heartStep1">Step 1</string>
+    <string name="heartStep2">Step 2</string>
+    <string name="heartStep3">Step 3</string>
+    <string name="heartStep4">DO NOT</string>
+    <string name="heartStep5">Follow</string>
+    <string name="heartStep6">CPR Steps</string>
+
+    <!--Fracture-->
+    <string name="fracStep1">Broken Bones</string>
+    <string name="fracStep2">Broken Bones</string>
+    <string name="fracStep3">Broken Leg</string>
+    <string name="fracStep4">Broken Leg</string>
+    <string name="fracStep5">Broken Leg</string>
+    <string name="fracStep6">Broken Leg</string>
+    <string name="fracStep7">Broken Leg</string>
+    <string name="fracStep8">Broken Leg</string>
+
+    <!--Burn-->
+    <string name="burnStep1">Step 1</string>
+    <string name="burnStep2">Step 2</string>
+    <string name="burnStep3">Step 3</string>
+    <string name="burnStep4">DOs and DONTs</string>
+
+    <!--Cuts-->
+    <string name="cutStep1">Step 1</string>
+    <string name="cutStep2">Step 2</string>
+    <string name="cutStep3">Step 3</string>
+    <string name="cutStep4">Step 4</string>
+    <string name="cutStep5">Step 5</string>
+    <string name="cutStep6">Step 6</string>
+    <string name="cutStep7">Step 7</string>
+
+    <!--Heat Stroke-->
+    <string name="heatStep1">Heat Exhaustion</string>
+    <string name="heatStep2">Heat Stroke</string>
+    <string name="heatStep3">Follow</string>
+
+    <!--Electrocution-->
+    <string name="elecStep1">Step 1</string>
+    <string name="elecStep2">Step 2</string>
+    <string name="elecStep3">Step 3</string>
+    <string name="elecStep4">Step 4</string>
+    <string name="elecStep5">Step 5</string>
+    <string name="elecStep6">Step 6</string>
+    <string name="elecStep7">Step 7</string>
+
+    <!--Poison Bites-->
+    <string name="biteStep1">Steps to Follow</string>
+    <string name="biteStep2">Step 1</string>
+    <string name="biteStep3">Step 2</string>
+    <string name="biteStep4">Step 3</string>
+    <string name="biteStep5">Step 4</string>
+    <string name="biteStep6">Step 5</string>
+    <string name="biteStep7">Step 6</string>
+    <string name="biteStep8">Step 7</string>
+
+    <!--Choking-->
+    <string name="chokeStep1">Five and Five Approach</string>
+    <string name="chokeStep2">Self First Aid</string>
+
+    <!--Seizures-->
+    <string name="seizStep1">Step 1</string>
+    <string name="seizStep2">Step 2</string>
+    <string name="seizStep3">Step 3</string>
+    <string name="seizStep4">Keep in Mind</string>
+
+    <!--Eye-->
+    <string name="eyeStep1">DOs and DONTs</string>
+    <string name="eyeStep2">DOs and DONTs</string>
+    <string name="eyeStep3">Foreign Materials in the Eye</string>
+    <string name="eyeStep4">Chemical Burns</string>
+    <string name="eyeStep5">Impact Injury</string>
+    <string name="eyeStep6">Sand/Dust Particles</string>
+
+    <!--Description-->
+
+    <!--HeartAttack-->
+    <string name="heartStep1desc">Swipe to see next Step!</string>
+    <string name="heartStep2desc">Swipe to see next Step!</string>
+    <string name="heartStep3desc">Swipe to see next Step!</string>
+    <string name="heartStep4desc">Swipe to see next Step!</string>
+    <string name="heartStep5desc">Swipe to see next Step!</string>
+    <string name="heartStep6desc">Follow the Steps as shown Below.</string>
+
+    <!--Fracture-->
+    <string name="fracStep1desc">Swipe to see next Step!</string>
+    <string name="fracStep2desc">Swipe to see next Step!</string>
+    <string name="fracStep3desc">Swipe to see next Step!</string>
+    <string name="fracStep4desc">Swipe to see next Step!</string>
+    <string name="fracStep5desc">Swipe to see next Step!</string>
+    <string name="fracStep6desc">Swipe to see next Step!</string>
+    <string name="fracStep7desc">Swipe to see next Step!</string>
+    <string name="fracStep8desc">This is the end of the First Aid Guide for Fracture!</string>
+
+    <!--Burn-->
+    <string name="burnStep1desc">COOL</string>
+    <string name="burnStep2desc">CALL</string>
+    <string name="burnStep3desc">COVER</string>
+    <string name="burnStep4desc">Keep in mind the below information.</string>
+
+    <!--Cuts-->
+    <string name="cutStep1desc">
+        With open wounds, there’s a risk of infection, so wear protective first aid gloves (if available) to help prevent any infection passing between you both.
+    </string>
+    <string name="cutStep2desc">
+        Apply direct pressure to the wound using a sterile dressing if possible or a clean non-fluffy cloth, to stop the bleeding.
+    </string>
+    <string name="cutStep3desc">
+        Firmly secure the dressing with a bandage to maintain pressure on the wound. Make it firm enough to maintain pressure but not so tight that it restricts their circulation.
+        Check their circulation beyond the bandage. Press one of the nails or the skin beyond the bandage for five seconds until it turns pale, then release the pressure.
+        If the colour does not return within two seconds, the bandage is too tight. If necessary, loosen and reapply the bandage.
+    </string>
+    <string name="cutStep4desc">
+        The loss of blood could cause the casualty to develop shock. Treat them for this by helping them to lie down, on a rug or blanket. Raise and support their legs, so they are above the level of their heart.
+        You should then loosen any tight clothing around their neck, chest and waist and cover the casualty with a blanket to keep them warm.
+    </string>
+    <string name="cutStep5desc">
+        If bleeding shows through the pad or dressing, don’t remove it and apply a second dressing on top of the first. If blood seeps through both dressings, remove both and replace with a fresh dressing. When changing dressings, keep pressure applied to the bleeding site.
+    </string>
+    <string name="cutStep6desc">
+        Support the injured part with a sling or bandage and keep checking the circulation beyond the bandage every 10 minutes.
+    </string>
+    <string name="cutStep7desc">
+        Keep monitoring their level of response until help arrives. If they become unresponsive at any point, prepare to start CPR.
+        To perform CPR, view the Heart Attack Tab please.
+    </string>
+
+    <!--Heat Stroke-->
+    <string name="heatStep1desc">Swipe to see next Step!</string>
+    <string name="heatStep2desc">Swipe to see next Step!</string>
+    <string name="heatStep3desc">Make sure the person is kept in a well cooled area and monitor their breathing rate.</string>
+
+    <!--Electrocution-->
+    <string name="elecStep1desc">Swipe to see next Step!</string>
+    <string name="elecStep2desc">Swipe to see next Step!</string>
+    <string name="elecStep3desc">Swipe to see next Step!</string>
+    <string name="elecStep4desc">FSwipe to see next Step!</string>
+    <string name="elecStep5desc">Swipe to see next Step!</string>
+    <string name="elecStep6desc">Swipe to see next Step!</string>
+    <string name="elecStep7desc">This is the end of the First Aid Guide for Electrocution!</string>
+
+    <!--Poison Bites-->
+    <string name="biteStep1desc">Make sure you follow all these steps listed below.</string>
+    <string name="biteStep2desc">
+        Try to make the patient wake up. Shout Are you all right?
+        Place the patient on his or her back.
+    </string>
+    <string name="biteStep3desc">
+        Look for the belly or the chest moving up and down.
+        Feel the chest moving up and down.
+        Feel the patients breath on your cheek.
+        Listen for breath sounds. Put your ear close to the patients mouth.
+    </string>
+    <string name="biteStep4desc">
+        Check whether the patient is breathing by looking and feeling for movement of the chest or belly, listening for breathing sounds and feeling for the patients breath on your cheek.
+    </string>
+    <string name="biteStep5desc">
+        If the patient is not breathing after you have tilted the head back, something may be blocking the throat.
+        Turn the head to one side. With one or two fingers (and preferably wearing gloves) scoop deeply round the mouth and throat to clear any blockage such as vomit. Take out the patients false teeth.
+        If the patient starts breathing turn him or her onto one side, into the recovery position. Check breathing and pulse frequently.
+    </string>
+    <string name="biteStep6desc">
+        You can help the patient to breathe by blowing air from your lungs into his or her lungs through the patients mouth (mouth to mouth) or nose (mouth to nose). This is called mouth-to-mouth (or mouth-to-nose) respiration.
+        Do not give mouth-to-mouth respiration if the patient is still breathing.
+    </string>
+    <string name="biteStep7desc">
+        "Mouth-to-mouth respiration: tilt the head back pinch the nose and pull the mouth open.
+        Breathe steadily and smoothly into the patients mouth, filling his or her chest with air.
+        Lift the mouth away so that the patient can breathe out; watch for the chest falling, feel for the patient's breath on your cheek, and listen for the sound of breathing."
+    </string>
+    <string name="biteStep8desc">
+        Watch carefully in case the patient stops breathing again. If breathing stops turn the patient onto his or her back and start mouth- to-mouth respiration again.
+    </string>
+
+    <!--Choking-->
+    <string name="chokeStep1desc">
+    Give 5 back blows. Stand to the side and just behind a choking adult. For a child, kneel down behind. Place one arm across the persons chest for support. Bend the person over at the waist so that the upper body is parallel with the ground. Deliver five separate back blows between the persons shoulder blades with the heel of your hand.
+    Give 5 abdominal thrusts. Stand behind the person; Make a fist with one hand; Grasp the fist with the other hand; Perform between six and 10 abdominal thrusts.
+    Alternate between 5 blows and 5 thrusts until the blockage is dislodged.
+    </string>
+    <string name="chokeStep2desc">
+        Place a fist slightly above your navel.
+        Grasp your fist with the other hand and bend over a hard surface — a countertop or chair will do.
+        hove your fist inward and upward.
+    </string>
+
+    <!--Seizures-->
+    <string name="seizStep1desc">Swipe to see next Step!</string>
+    <string name="seizStep2desc">Swipe to see next Step!</string>
+    <string name="seizStep3desc">Swipe to see next Step!</string>
+    <string name="seizStep4desc">Do not forget to call for help and be strong for the person suffering through seizures.</string>
+
+    <!--Eye-->
+    <string name="eyeStep1desc">Swipe to see next Step!</string>
+    <string name="eyeStep2desc">Swipe to see next Step!</string>
+    <string name="eyeStep3desc">Swipe to see next Step!</string>
+    <string name="eyeStep4desc">Swipe to see next Step!</string>
+    <string name="eyeStep5desc">Swipe to see next Step!</string>
+    <string name="eyeStep6desc">This is the end of the First Aid Guide for Eye-trauma!</string>
+    <string name="menu_guide">Quick First Aid Guide</string>
+    <string name="menu_doctor">Find a Doctor</string>
+    <string name="menu_hospital">Hospitals</string>
+    <string name="upload">Upload</string>
+    <string name="menu_volunteer">Volunteer</string>
+    <string name="title_activity_hospitals_maps">Map</string>
+
+</resources>

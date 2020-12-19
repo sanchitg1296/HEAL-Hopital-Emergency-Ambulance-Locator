@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation2.xml"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/nav_home2">
+
+    <fragment
+        android:id="@+id/nav_home2"
+        android:name="com.example.ambulancefinder.customerui.HomeFragment"
+        android:label="@string/menu_home_2"
+        tools:layout="@layout/fragment_home2" />
+
+    <fragment
+        android:id="@+id/nav_gallery2"
+        android:name="com.example.ambulancefinder.customerui.HistoryFragment"
+        android:label="@string/menu_history_2"
+        tools:layout="@layout/fragment_history2" />
+
+    <fragment
+        android:id="@+id/nav_hospital"
+        android:name="com.example.ambulancefinder.customerui.HospitalsFragment"
+        android:label="@string/menu_hospital"
+        tools:layout="@layout/fragment_hospitals" />
+
+    <fragment
+        android:id="@+id/nav_doctor"
+        android:name="com.example.ambulancefinder.customerui.DoctorFragment"
+        android:label="@string/menu_doctor"
+        tools:layout="@layout/fragment_doctor" />
+
+    <fragment
+        android:id="@+id/nav_guide"
+        android:name="com.example.ambulancefinder.customerui.GuideFragment"
+        android:label="@string/menu_guide"
+        tools:layout="@layout/fragment_guide" />
+
+    <fragment
+        android:id="@+id/nav_volunteer"
+        android:name="com.example.ambulancefinder.customerui.VolunteerFragment"
+        android:label="@string/menu_volunteer"
+        tools:layout="@layout/fragment_volunteer" />
+
+    <fragment
+        android:id="@+id/nav_slideshow2"
+        android:name="com.example.ambulancefinder.customerui.SettingsFragment"
+        android:label="@string/menu_settings_2"
+        tools:layout="@layout/fragment_settings2" />
+
+
+
+</navigation>

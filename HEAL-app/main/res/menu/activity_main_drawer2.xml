@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home2"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home_2" />
+        <item
+            android:id="@+id/nav_gallery2"
+            android:icon="@drawable/ic_baseline_history_24"
+            android:title="@string/menu_history_2" />
+        <item
+            android:id="@+id/nav_hospital"
+            android:icon="@drawable/ic_baseline_local_hospital_24"
+            android:title="@string/menu_hospital" />
+        <item
+            android:id="@+id/nav_doctor"
+            android:icon="@drawable/ic_baseline_person_pin_circle_24"
+            android:title="@string/menu_doctor" />
+        <item
+            android:id="@+id/nav_guide"
+            android:icon="@drawable/ic_baseline_book_24"
+            android:title="@string/menu_guide" />
+        <item
+            android:id="@+id/nav_volunteer"
+            android:icon="@drawable/ic_baseline_mood_24"
+            android:title="@string/menu_volunteer" />
+        <item
+            android:id="@+id/nav_slideshow2"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="@string/menu_settings_2" />
+    </group>
+
+</menu>
