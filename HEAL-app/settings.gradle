@@ -1,0 +1,2 @@
+rootProject.name = "AmbulanceFinder"
+include ':app'
