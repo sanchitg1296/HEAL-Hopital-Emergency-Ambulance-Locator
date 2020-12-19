@@ -1,0 +1,280 @@
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #fff;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 1px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+
+a.heal,a.about,a.signup,a.signout,a.signin{
+  padding-top: 10px;
+  color: #0F3057;
+  font-weight: bold;
+}
+
+.topnav a.heal{
+
+  font-family: 'Baskervville', serif;
+  color: #233862;
+}
+
+.topnav a.about{
+  color: green;
+  margin-left: 50rem;
+
+}
+
+
+
+.topnav a.contactus{
+  padding-top: 10px;
+  color: #0F3057;
+  font-weight: bold;
+}
+
+.grid-container{
+  display: inline-grid;
+  /* background-color: black; */
+  /* grid-column-gap: 50px; */
+  grid-template-columns: auto auto;
+  width: 100%;
+}
+
+img{
+  height: 60%;
+  width: auto;
+}
+
+h1{
+  padding-left: 30%;
+  color: #0F3057;
+}
+h2{
+  font-family: 'Encode Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 70px;
+  letter-spacing: 0.26em;
+  color: #00587A;
+  margin-left: 7%;
+}
+
+p a{
+  color: #0F3057;
+  text-decoration: inherit;
+}
+
+p{
+  margin-left: 3rem;
+}
+
+.vl {
+  border-left: 5px solid #0F3057;
+  height: 80%;
+  position: absolute;
+  left: 50%;
+  top: 15%;
+}
+
+.grid-container input{
+  width: 40%;
+  height: 4%;
+  align-self: center;
+  border: 2px solid #0F3057;
+  border-radius: 7px;
+  margin-bottom: 10px;
+}
+
+::placeholder {
+  color: #0F3057;
+}
+
+#login{
+  width: 100%;
+  margin-right: 20rem;
+  margin-top: 8rem;
+}
+
+#welcome{
+  width: 50%;
+}
+
+#sign-in{
+  width: 20%;
+  height: 4%;
+  margin-left: 10%;
+
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  border: 1px;
+  color: white;
+  border-radius: 25px;
+
+  background-color: #00587A;
+}
+
+/* .container .search{
+  text-align: center;
+} */
+
+#after_login{
+  text-align: center;
+}
+
+#after_login input{
+  width: 20%;
+  height: 30px;
+  border: 2px solid #0F3057;
+  border-radius: 7px;
+  margin-bottom: 10px;
+
+}
+
+#after_login button{
+  height: 35px;
+  width: 8%;
+
+
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: white;
+  border-radius: 25px;
+  border: 1px;
+  margin: 3px;
+
+  background-color: #00587A;
+}
+
+.search i{
+  font-size: 20px;
+  color: #00587A;
+}
+
+
+#details{
+  color: black;
+  border: 2px solid #00587A;
+  border-radius: 20px;
+  width: 35%;
+  margin-left: 32.5%;
+  text-align: left;
+}
+
+#details p{
+  font-size: 2rem;
+  color: #00587A;
+}
+
+#details span{
+  color: black;
+}
+
+.row .col-6 .one{
+  font-size: 6rem;
+  margin-top: 10%;
+  margin-left: 4%;
+  color: #0F3057;
+}
+
+
+
+.row .col-6 .two{
+  font-size: 3rem;
+  color: #00587A;
+
+}
+
+.row .col-6 button{
+
+  color: #fff;
+  background-color: #0F3057;
+  border-radius: 40px;
+  border: 1px;
+  font-size: 2.5rem;
+  margin-left: 35%;
+
+}
+
+.row .col-6 img{
+  margin-top: 5%;
+  height: 35rem
+}
+
+
+.row .col-8 .three{
+  font-size: 5rem;
+  color: #0F3057;
+}
+
+.row .col-8 .four{
+  font-size: 2.5rem;
+  color: #00587A;
+}
+
+.row .col-4 img{
+  height: 42rem;
+  margin-left: 3rem;
+}
+
+
+.five{
+  font-size: 4rem;
+  color: #0F3057;
+  font-weight: bold;
+  margin-left: 30%;
+}
+
+.six{
+  font-size: 2rem;
+  color: #00587A;
+  text-align: left;
+  margin-left: 30%;
+}
+
+
+#contactus .col-6 input{
+  width: 40%;
+  height: 5%;
+  align-self: center;
+  border: 2px solid #0F3057;
+  border-radius: 7px;
+  margin-bottom: 10px;
+  margin-left: 30%;
+}
+
+#send{
+  margin: 0;
+  color: #fff;
+  background-color: #00587A;
+  border-radius: 40px;
+  width: 10rem;
+  height: 3rem;
+  border: 1px;
+  font-size: 2rem;
+  margin-left: 35%;
+}
+
+#contactus .col-6 .feedback{
+  height: 12%;
+}
