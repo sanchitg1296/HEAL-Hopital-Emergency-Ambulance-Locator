@@ -30,3 +30,5 @@ The driver will get the location of the user calling for the ambulance along wit
 A website to communicate with the hospital using HTML, CSS, JavaScript, Firebase is made as well that will update the hospital with the symptoms, ambulance location and patient's details in advance.
 
 APPLICATIONS : It will be helpful in case of health emergencies, and our service will be one tap away for the users to find an ambulance quickly and without any chaos. Also it will help prepare the hospitals for the arrival of the patients.
+
+Prototype link: https://www.figma.com/proto/raLuGJH750F5fb5jY9xUGQ/prototyping-1?node-id=7%3A896&viewport=597%2C352%2C0.0625&scaling=scale-down
