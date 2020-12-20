@@ -1,7 +1,7 @@
 # Suicide-Squad-HackBattle
 This is our submission to HackBattle, presenting to your our app and website, HEAL.
 
-Our main aim is to provide optimum healthcare serices by helping our users to locate nearby ambulances in case of emergency situations. We aim to provide better and quicker health assistance in case of an emergency as we value the precious time of our patient.
+Our main aim is to provide optimum healthcare services by helping our users to locate nearby ambulances in case of emergency situations. We aim to provide better and quicker health assistance in case of an emergency as we value the precious time of our patient.
 
 HEAL - Hospital Emergency Ambulance Locator
 
